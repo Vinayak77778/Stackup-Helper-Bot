@@ -2,6 +2,7 @@ import discord
 import google.generativeai as genai
 import os
 import time
+import webserver
 from dotenv import load_dotenv
 
 # load environment variables of .env file
@@ -165,6 +166,7 @@ async def on_message(message):
         - `!deletechatlog`:Delete the chat log history by admin. 
         """
         await message.channel.send(commands_list)
-
+        
+webserver.keep_alive()
 if __name__ == '__main__':
     client.run(DISCORD_TOKEN)
