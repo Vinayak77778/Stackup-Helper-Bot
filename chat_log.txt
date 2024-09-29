@@ -1,0 +1,50 @@
+Question: Can I resubmit my submission?
+Answer: I understand you're asking if you can resubmit a submission, but I need more context to help you. 
+
+Please provide me with the following information:
+
+* **What platform are you submitting to?** (e.g., StackUp Learn & Earn, StackUp Hackathon App)
+* **What type of submission is it?** (e.g., a quest, a bounty, a hackathon project)
+* **Why do you want to resubmit?** (e.g., you found a mistake, you want to improve it)
+* **Have you already submitted the file**
+
+Once I have this information, I can provide you with the most accurate and helpful advice.
+Response Time: 3.13 seconds
+----------------------------------------
+Question: Why am I only approved even if I joined before reaching the max. no of participants?
+Answer: The provided text doesn't contain any information about someone being approved for a quest despite joining before the maximum number of participants. It's possible the text is missing, or you are referring to something different. 
+
+To help me understand, please provide the following information:
+
+* **What specific platform or event are you referring to?**  (e.g., StackUp Learn & Earn, a specific hackathon, etc.)
+* **What are the specific details of the situation?** (e.g., how many participants were there, what was the maximum number allowed, what were the quest/bounty conditions)
+* **What is the specific error message or issue you're experiencing?** 
+
+With more context, I can give you a more accurate and helpful answer.
+Response Time: 1.85 seconds
+----------------------------------------
+Question: Which countries are not supported by StackUp?
+Answer: The text you provided doesn't contain information about which countries are not supported by StackUp. However, it does state that StackUp is updating its list of supported countries and, as of November 9, 2022, the following regions/countries are no longer supported:
+
+* Democratic People�s Republic of Korea (North Korea)
+* Republic of Sudan
+* Russia
+* Islamic Republic of Iran
+* Republic of Cuba
+* Ukraine
+* Syrian Arab Republic
+* State of Libya
+* Federal Republic of Somalia
+* Republic of Yemen
+* Democratic Republic of the Congo
+
+It also mentions that due to system limitations and complexities, residents of the following countries may face challenges joining the platform:
+
+* Afghanistan
+* Pakistan
+* Palestinian Territory
+* Iraq
+
+The text explains that these countries are not supported due to legal obligations and challenges in awarding quest rewards and processing payments through their payment providers.
+Response Time: 5.03 seconds
+----------------------------------------
