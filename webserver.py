@@ -11,4 +11,4 @@ def run():
 
 def keep alive():
   Thread(target-run)
-  t.start
+  t.start()
