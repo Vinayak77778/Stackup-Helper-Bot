@@ -86,8 +86,6 @@ python main.py
 
 - **`!mute [user] [hours]`**: Temporarily mutes a user for the given number of hours.
 
-- **`!unban [user]`**: Unbans a previously banned user from the server.
-
 - **`!deletechatlog`**: Deletes the stored chat log that records the conversation history.
 
 
